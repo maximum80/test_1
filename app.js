@@ -1,5 +1,6 @@
 function fizzbuzz(n) {
   if (){
+	  hoge;
   }
 }
 
